@@ -2,8 +2,8 @@
 layout: post
 title: Creating a GPU-based Particle System
 subtitle: Using compute shaders to simulate particles
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/ParticleSystemMenu.png
+thumbnail-img: /assets/img/ParticleSystemMenu.png
 share-img: /assets/img/path.jpg
 tags: [gpu, particles]
 author: Evan Lohento
